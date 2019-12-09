@@ -5,6 +5,7 @@
 //  Created by Arthur Narimanov on 01/12/2019.
 //  Copyright © 2019 Arthur Narimanov. All rights reserved.
 //
+//https://medium.com/flawless-app-stories/writing-network-layer-in-swift-protocol-oriented-approach-4fa40ef1f908
 
 import Foundation
 
